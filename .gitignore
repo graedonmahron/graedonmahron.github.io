@@ -8,6 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+.jekyll-metadata
 _site/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
