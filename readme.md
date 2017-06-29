@@ -1,3 +1,0 @@
-# This is a test
-
-Testing how to get this darn thing working...
